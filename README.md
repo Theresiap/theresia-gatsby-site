@@ -1,3 +1,3 @@
 # theresia-gatsby-site
 
-//Hello!
+Hello! My name is Theresia, and this is my portfolio.
